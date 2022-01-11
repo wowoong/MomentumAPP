@@ -1,5 +1,5 @@
 # MomentumAPP
- Momentum APP clone
+HTML, CSS, Vailla JS를 이용한 Momentum APP clone
  
 ---
 ### 기능
